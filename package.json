@@ -1,0 +1,1 @@
+{"name":"lifeline-demo","version":"1.0.0","private":true,"description":"A donor and hospital blood donation prototype","scripts":{"dev":"node server.cjs","check":"node --check dist/app.js"}}
